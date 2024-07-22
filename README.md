@@ -98,10 +98,8 @@ Our team of 5 members employed Agile methodology over 5 days to develop StarCine
 - [WebPage Live Demo](https://cinema-tickets-s5hk.vercel.app/)
 - [Dashboard Live Demo](https://star-cinemas-admin-dashboard.vercel.app/)
 
-## Figma Demo
+## Organizations
 
-- [Figma Demo](https://www.figma.com/design/qPpnrRLxYkc8ZefCCXAfl6/Untitled?node-id=0-1&t=dlOI8N3IkDnbfzBr-0)
+- [WebPage](https://github.com/abdullah-dabash/cinema-tickets.git)
+- [Dashboard](https://github.com/abdullah-dabash/Cinema-DashBoard.git)
 
-## Trello Board
-
-- [Trello Board](https://trello.com/b/snEHpfA9/cinema-tickets-website)
